@@ -22,4 +22,3 @@ void loop()
   Serial.println(currentTime);
   delay(5000);
 }
-
